@@ -1,0 +1,81 @@
+a{
+    color: aqua;
+
+    padding-left:10px ;
+    margin: 10px;
+    padding: 6px;
+    background-color: red;
+    
+
+    border-start-start-radius: 10px;
+    border-end-end-radius: 10px;
+    letter-spacing: 3px;
+    
+
+}
+
+.home
+{ 
+   padding: 0px;
+    background-image: url("./assets/Nike\ .jpg");
+    background-size: cover;
+    height: 100vh;
+    padding-left: 1100px;
+
+    h1{
+        padding-top: 150px;
+        color: white;
+        margin-left: -1050px;
+        font-size: 40px;
+        width: 450px;
+        
+    }
+    p{
+        color:rgb(255, 127, 236);
+      
+        font-family: cursive;
+        margin-left: -1000px;
+        width: 400px;
+        font-size: 25px;
+        
+    }
+    
+}
+
+
+@media (max-width: 480px) {
+
+a{
+    color: aqua;
+
+    padding-left:10px ;
+    margin: 10px;
+    padding: 6px;
+    background-color: red;
+    
+
+    border-start-start-radius: 10px;
+    border-end-end-radius: 10px;
+    letter-spacing: 3px;
+    
+
+}
+.home
+{ 
+   padding: 0px;
+    background-image: url("./assets/Nike\ .jpg");
+    background-size: cover;
+    height: 100vh;
+    padding-left: 1100px;
+
+    h1{
+        padding-top: 150px;
+        color: white;
+        margin-left: -1050px;
+        font-size: 40px;
+        width: 450px;
+        
+    }
+    
+}
+}
