@@ -7,7 +7,7 @@ import kc from "./assets/kiclo.jpg";
 const Kids = () => {
   return (
     <div>
-      <marquee>Welcome Kids Collection</marquee>
+      <marquee>Welcome Kids Collection...Try Once</marquee>
       <p>Kid's Shoes</p>
       <img src={kish} alt="Kid's Shoes" />
       <button>Visit Us</button>
